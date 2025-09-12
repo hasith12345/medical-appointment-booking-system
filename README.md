@@ -8,7 +8,7 @@
 
 A comprehensive medical appointment booking system built with Laravel 11, featuring doctor management, appointment scheduling, and user authentication.
 
-![Alt text](https://drive.google.com/file/d/1tmv3ChvPs6vYv6otwpzxCj7TFyTemG1t/view?usp=sharing)
+![App Screenshot](public/project6.png)
 
 ## Features
 
